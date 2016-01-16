@@ -10,3 +10,5 @@ Hi
 **bold**
 
 [link to GitHub](https://github.com)
+
+*bullet
