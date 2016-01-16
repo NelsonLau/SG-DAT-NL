@@ -3,14 +3,6 @@ Nelson GA DS Repo
 
 Hi
 
-## sub title
+## Useful links
 
-*italics*
-
-**bold**
-
-[link to GitHub](https://github.com)
-
-* bullet
-
-test commit
+[link to course github](https://github.com/misrab/SG_DAT1)
