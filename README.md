@@ -11,4 +11,4 @@ Hi
 
 [link to GitHub](https://github.com)
 
-*bullet
+* bullet
