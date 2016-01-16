@@ -8,3 +8,5 @@ Hi
 *italics*
 
 **bold**
+
+[link to GitHub](https://github.com)
