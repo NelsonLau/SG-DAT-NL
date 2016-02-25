@@ -1,0 +1,3403 @@
+
+---Working on NUMBER_TICKS,DayOfWeek 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.80%
+Accuracy score on training data: 50.35%
+Accuracy score on test data: 48.15%
+fitting RBF SVM
+Accuracy score: 57.22%
+Accuracy score on training data: 59.37%
+Accuracy score on test data: 50.77%
+
+---Working on NUMBER_TICKS,Hour 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.42%
+Accuracy score on training data: 51.52%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 56.34%
+Accuracy score on training data: 58.50%
+Accuracy score on test data: 49.86%
+
+---Working on NUMBER_TICKS,1_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.70%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 53.61%
+Accuracy score on training data: 54.80%
+Accuracy score on test data: 50.05%
+
+---Working on NUMBER_TICKS,5_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.50%
+Accuracy score on training data: 50.41%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 53.20%
+Accuracy score on training data: 54.65%
+Accuracy score on test data: 48.87%
+
+---Working on NUMBER_TICKS,10_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.88%
+Accuracy score on training data: 49.82%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 53.51%
+Accuracy score on training data: 55.35%
+Accuracy score on test data: 47.97%
+
+---Working on NUMBER_TICKS,20_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.86%
+Accuracy score on training data: 50.51%
+Accuracy score on test data: 51.90%
+fitting RBF SVM
+Accuracy score: 52.87%
+Accuracy score on training data: 54.21%
+Accuracy score on test data: 48.83%
+
+---Working on NUMBER_TICKS,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.15%
+Accuracy score on training data: 51.23%
+Accuracy score on test data: 50.90%
+fitting RBF SVM
+Accuracy score: 53.25%
+Accuracy score on training data: 54.06%
+Accuracy score on test data: 50.81%
+
+---Working on NUMBER_TICKS,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.18%
+Accuracy score on training data: 50.80%
+Accuracy score on test data: 48.33%
+fitting RBF SVM
+Accuracy score: 54.07%
+Accuracy score on training data: 54.44%
+Accuracy score on test data: 52.94%
+
+---Working on NUMBER_TICKS,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.54%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 45.66%
+fitting RBF SVM
+Accuracy score: 54.09%
+Accuracy score on training data: 55.64%
+Accuracy score on test data: 49.45%
+
+---Working on NUMBER_TICKS,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.14%
+Accuracy score on training data: 53.65%
+Accuracy score on test data: 51.60%
+fitting RBF SVM
+Accuracy score: 54.94%
+Accuracy score on training data: 55.54%
+Accuracy score on test data: 53.14%
+
+---Working on NUMBER_TICKS,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.75%
+Accuracy score on training data: 52.14%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 54.89%
+Accuracy score on training data: 55.90%
+Accuracy score on test data: 51.87%
+
+---Working on NUMBER_TICKS,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.94%
+Accuracy score on training data: 50.97%
+Accuracy score on test data: 54.86%
+fitting RBF SVM
+Accuracy score: 54.56%
+Accuracy score on training data: 55.82%
+Accuracy score on test data: 50.77%
+
+---Working on NUMBER_TICKS,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.27%
+Accuracy score on training data: 51.44%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 55.54%
+Accuracy score on training data: 56.55%
+Accuracy score on test data: 52.50%
+
+---Working on NUMBER_TICKS,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.59%
+Accuracy score on training data: 51.23%
+Accuracy score on test data: 52.68%
+fitting RBF SVM
+Accuracy score: 54.22%
+Accuracy score on training data: 55.37%
+Accuracy score on test data: 50.77%
+
+---Working on NUMBER_TICKS,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 51.07%
+Accuracy score on test data: 53.65%
+fitting RBF SVM
+Accuracy score: 53.54%
+Accuracy score on training data: 54.71%
+Accuracy score on test data: 50.05%
+
+---Working on NUMBER_TICKS,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 59.52%
+Accuracy score on training data: 62.83%
+Accuracy score on test data: 49.59%
+
+---Working on NUMBER_TICKS,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.08%
+Accuracy score on training data: 51.25%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 60.76%
+Accuracy score on training data: 63.52%
+Accuracy score on test data: 52.48%
+
+---Working on NUMBER_TICKS,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.74%
+Accuracy score on training data: 52.39%
+Accuracy score on test data: 49.77%
+fitting RBF SVM
+Accuracy score: 62.88%
+Accuracy score on training data: 66.05%
+Accuracy score on test data: 53.38%
+
+---Working on NUMBER_TICKS,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.26%
+Accuracy score on training data: 52.15%
+Accuracy score on test data: 52.57%
+fitting RBF SVM
+Accuracy score: 62.54%
+Accuracy score on training data: 66.62%
+Accuracy score on test data: 50.32%
+
+---Working on NUMBER_TICKS,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.65%
+Accuracy score on training data: 50.41%
+Accuracy score on test data: 51.40%
+fitting RBF SVM
+Accuracy score: 66.42%
+Accuracy score on training data: 71.58%
+Accuracy score on test data: 50.95%
+
+---Working on NUMBER_TICKS,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.99%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 47.74%
+fitting RBF SVM
+Accuracy score: 54.11%
+Accuracy score on training data: 55.54%
+Accuracy score on test data: 49.82%
+
+---Working on NUMBER_TICKS,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.44%
+Accuracy score on training data: 51.55%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 55.10%
+Accuracy score on training data: 56.33%
+Accuracy score on test data: 51.40%
+
+---Working on NUMBER_TICKS,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.49%
+Accuracy score on training data: 51.76%
+Accuracy score on test data: 50.68%
+fitting RBF SVM
+Accuracy score: 54.15%
+Accuracy score on training data: 55.40%
+Accuracy score on test data: 50.41%
+
+---Working on NUMBER_TICKS,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.68%
+Accuracy score on training data: 53.29%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 55.16%
+Accuracy score on training data: 56.27%
+Accuracy score on test data: 51.85%
+
+---Working on NUMBER_TICKS,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.86%
+Accuracy score on training data: 53.56%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 54.92%
+Accuracy score on training data: 56.06%
+Accuracy score on test data: 51.49%
+
+---Working on NUMBER_TICKS,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.89%
+Accuracy score on training data: 52.51%
+Accuracy score on test data: 54.01%
+fitting RBF SVM
+Accuracy score: 54.33%
+Accuracy score on training data: 55.61%
+Accuracy score on test data: 50.50%
+
+---Working on NUMBER_TICKS,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.86%
+Accuracy score on training data: 50.11%
+Accuracy score on test data: 49.14%
+fitting RBF SVM
+Accuracy score: 85.52%
+Accuracy score on training data: 96.87%
+Accuracy score on test data: 51.49%
+
+---Working on NUMBER_TICKS,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.24%
+Accuracy score on training data: 51.16%
+Accuracy score on test data: 51.49%
+fitting RBF SVM
+Accuracy score: 84.73%
+Accuracy score on training data: 96.60%
+Accuracy score on test data: 49.14%
+
+---Working on NUMBER_TICKS,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 51.79%
+Accuracy score on test data: 51.49%
+fitting RBF SVM
+Accuracy score: 85.27%
+Accuracy score on training data: 97.02%
+Accuracy score on test data: 50.05%
+
+---Working on NUMBER_TICKS,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.23%
+Accuracy score on training data: 50.65%
+Accuracy score on test data: 48.96%
+fitting RBF SVM
+Accuracy score: 85.66%
+Accuracy score on training data: 97.23%
+Accuracy score on test data: 50.95%
+
+---Working on NUMBER_TICKS,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.00%
+Accuracy score on training data: 50.14%
+Accuracy score on test data: 49.59%
+fitting RBF SVM
+Accuracy score: 85.16%
+Accuracy score on training data: 97.38%
+Accuracy score on test data: 48.51%
+
+---Working on NUMBER_TICKS,1_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.68%
+Accuracy score on training data: 49.95%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 85.99%
+Accuracy score on training data: 97.92%
+Accuracy score on test data: 50.23%
+
+---Working on NUMBER_TICKS,5_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.40%
+Accuracy score on training data: 51.70%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 84.21%
+Accuracy score on training data: 96.33%
+Accuracy score on test data: 47.88%
+
+---Working on NUMBER_TICKS,10_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.70%
+Accuracy score on training data: 51.19%
+Accuracy score on test data: 49.23%
+fitting RBF SVM
+Accuracy score: 83.96%
+Accuracy score on training data: 95.52%
+Accuracy score on test data: 49.32%
+
+---Working on NUMBER_TICKS,20_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.59%
+Accuracy score on training data: 51.01%
+Accuracy score on test data: 49.32%
+fitting RBF SVM
+Accuracy score: 82.70%
+Accuracy score on training data: 94.50%
+Accuracy score on test data: 47.34%
+
+---Working on NUMBER_TICKS,40_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.38%
+Accuracy score on training data: 50.50%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 82.97%
+Accuracy score on training data: 93.38%
+Accuracy score on test data: 51.76%
+
+---Working on NUMBER_TICKS,80_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.24%
+Accuracy score on training data: 51.64%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 81.66%
+Accuracy score on training data: 92.27%
+Accuracy score on test data: 49.86%
+
+---Working on NUMBER_TICKS,1_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.20%
+Accuracy score on training data: 52.32%
+Accuracy score on test data: 47.83%
+fitting RBF SVM
+Accuracy score: 54.17%
+Accuracy score on training data: 56.47%
+Accuracy score on test data: 47.28%
+
+---Working on NUMBER_TICKS,5_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.42%
+Accuracy score on training data: 51.65%
+Accuracy score on test data: 50.72%
+fitting RBF SVM
+Accuracy score: 54.69%
+Accuracy score on training data: 56.80%
+Accuracy score on test data: 48.38%
+
+---Working on NUMBER_TICKS,10_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.13%
+Accuracy score on training data: 52.47%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 54.88%
+Accuracy score on training data: 56.47%
+Accuracy score on test data: 50.14%
+
+---Working on NUMBER_TICKS,20_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.72%
+Accuracy score on training data: 50.77%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 54.60%
+Accuracy score on training data: 56.00%
+Accuracy score on test data: 50.41%
+
+---Working on NUMBER_TICKS,40_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.54%
+Accuracy score on training data: 50.63%
+Accuracy score on test data: 46.26%
+fitting RBF SVM
+Accuracy score: 55.70%
+Accuracy score on training data: 56.95%
+Accuracy score on test data: 51.94%
+
+---Working on NUMBER_TICKS,80_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.47%
+Accuracy score on training data: 51.25%
+Accuracy score on test data: 48.15%
+fitting RBF SVM
+Accuracy score: 55.50%
+Accuracy score on training data: 56.15%
+Accuracy score on test data: 53.56%
+
+---Working on NUMBER_TICKS,1_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.20%
+Accuracy score on training data: 51.49%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 58.07%
+Accuracy score on training data: 60.87%
+Accuracy score on test data: 49.68%
+
+---Working on NUMBER_TICKS,5_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 50.86%
+Accuracy score on test data: 48.51%
+fitting RBF SVM
+Accuracy score: 59.63%
+Accuracy score on training data: 62.95%
+Accuracy score on test data: 49.68%
+
+---Working on NUMBER_TICKS,10_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.80%
+Accuracy score on training data: 50.26%
+Accuracy score on test data: 48.42%
+fitting RBF SVM
+Accuracy score: 61.28%
+Accuracy score on training data: 65.14%
+Accuracy score on test data: 49.68%
+
+---Working on NUMBER_TICKS,20_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.60%
+Accuracy score on training data: 51.55%
+Accuracy score on test data: 51.76%
+fitting RBF SVM
+Accuracy score: 63.13%
+Accuracy score on training data: 68.30%
+Accuracy score on test data: 47.61%
+
+---Working on NUMBER_TICKS,40_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.92%
+Accuracy score on training data: 51.22%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 65.52%
+Accuracy score on training data: 70.11%
+Accuracy score on test data: 51.76%
+
+---Working on NUMBER_TICKS,80_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 49.68%
+fitting RBF SVM
+Accuracy score: 68.65%
+Accuracy score on training data: 74.74%
+Accuracy score on test data: 50.41%
+
+---Working on NUMBER_TICKS,1_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.79%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 50.68%
+fitting RBF SVM
+Accuracy score: 57.40%
+Accuracy score on training data: 60.36%
+Accuracy score on test data: 48.51%
+
+---Working on NUMBER_TICKS,5_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.58%
+Accuracy score on training data: 51.52%
+Accuracy score on test data: 51.76%
+fitting RBF SVM
+Accuracy score: 55.19%
+Accuracy score on training data: 57.05%
+Accuracy score on test data: 49.59%
+
+---Working on NUMBER_TICKS,10_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.21%
+Accuracy score on training data: 52.60%
+Accuracy score on test data: 51.04%
+fitting RBF SVM
+Accuracy score: 56.02%
+Accuracy score on training data: 57.71%
+Accuracy score on test data: 50.95%
+
+---Working on NUMBER_TICKS,20_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.89%
+Accuracy score on training data: 52.18%
+Accuracy score on test data: 51.04%
+fitting RBF SVM
+Accuracy score: 56.07%
+Accuracy score on training data: 57.50%
+Accuracy score on test data: 51.76%
+
+---Working on NUMBER_TICKS,40_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.86%
+Accuracy score on training data: 51.10%
+Accuracy score on test data: 50.14%
+fitting RBF SVM
+Accuracy score: 55.07%
+Accuracy score on training data: 56.24%
+Accuracy score on test data: 51.58%
+
+---Working on NUMBER_TICKS,80_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.83%
+Accuracy score on training data: 51.73%
+Accuracy score on test data: 52.12%
+fitting RBF SVM
+Accuracy score: 55.19%
+Accuracy score on training data: 56.69%
+Accuracy score on test data: 50.68%
+
+---Working on DayOfWeek,Hour 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.15%
+Accuracy score on training data: 51.13%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 52.71%
+Accuracy score on training data: 53.56%
+Accuracy score on test data: 50.14%
+
+---Working on DayOfWeek,1_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.23%
+Accuracy score on training data: 49.89%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 50.83%
+Accuracy score on training data: 51.64%
+Accuracy score on test data: 48.42%
+
+---Working on DayOfWeek,5_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.20%
+Accuracy score on training data: 51.19%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 51.85%
+Accuracy score on training data: 51.58%
+Accuracy score on test data: 52.66%
+
+---Working on DayOfWeek,10_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.98%
+Accuracy score on training data: 50.66%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 50.37%
+Accuracy score on training data: 51.11%
+Accuracy score on test data: 48.15%
+
+---Working on DayOfWeek,20_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 51.74%
+Accuracy score on test data: 48.56%
+fitting RBF SVM
+Accuracy score: 51.29%
+Accuracy score on training data: 52.44%
+Accuracy score on test data: 47.83%
+
+---Working on DayOfWeek,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.31%
+Accuracy score on training data: 51.90%
+Accuracy score on test data: 49.55%
+fitting RBF SVM
+Accuracy score: 50.25%
+Accuracy score on training data: 50.69%
+Accuracy score on test data: 48.92%
+
+---Working on DayOfWeek,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.77%
+Accuracy score on training data: 51.52%
+Accuracy score on test data: 48.51%
+fitting RBF SVM
+Accuracy score: 50.77%
+Accuracy score on training data: 51.52%
+Accuracy score on test data: 48.51%
+
+---Working on DayOfWeek,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.99%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 51.85%
+fitting RBF SVM
+Accuracy score: 52.17%
+Accuracy score on training data: 52.00%
+Accuracy score on test data: 52.68%
+
+---Working on DayOfWeek,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.81%
+Accuracy score on training data: 51.58%
+Accuracy score on test data: 52.51%
+fitting RBF SVM
+Accuracy score: 52.54%
+Accuracy score on training data: 52.34%
+Accuracy score on test data: 53.14%
+
+---Working on DayOfWeek,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.89%
+Accuracy score on training data: 51.78%
+Accuracy score on test data: 52.23%
+fitting RBF SVM
+Accuracy score: 52.80%
+Accuracy score on training data: 52.63%
+Accuracy score on test data: 53.32%
+
+---Working on DayOfWeek,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.58%
+Accuracy score on training data: 52.48%
+Accuracy score on test data: 52.86%
+fitting RBF SVM
+Accuracy score: 53.06%
+Accuracy score on training data: 52.67%
+Accuracy score on test data: 54.22%
+
+---Working on DayOfWeek,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.29%
+Accuracy score on training data: 53.71%
+Accuracy score on test data: 52.04%
+fitting RBF SVM
+Accuracy score: 53.29%
+Accuracy score on training data: 53.71%
+Accuracy score on test data: 52.04%
+
+---Working on DayOfWeek,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.72%
+Accuracy score on training data: 52.16%
+Accuracy score on test data: 54.41%
+fitting RBF SVM
+Accuracy score: 52.57%
+Accuracy score on training data: 52.29%
+Accuracy score on test data: 53.41%
+
+---Working on DayOfWeek,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.07%
+Accuracy score on training data: 50.35%
+Accuracy score on test data: 49.23%
+fitting RBF SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 51.13%
+Accuracy score on test data: 50.41%
+
+---Working on DayOfWeek,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.97%
+Accuracy score on training data: 50.77%
+Accuracy score on test data: 51.58%
+fitting RBF SVM
+Accuracy score: 54.98%
+Accuracy score on training data: 55.46%
+Accuracy score on test data: 53.56%
+
+---Working on DayOfWeek,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.11%
+Accuracy score on training data: 53.17%
+Accuracy score on test data: 52.93%
+fitting RBF SVM
+Accuracy score: 55.48%
+Accuracy score on training data: 56.51%
+Accuracy score on test data: 52.39%
+
+---Working on DayOfWeek,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 51.40%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 55.80%
+Accuracy score on training data: 57.77%
+Accuracy score on test data: 49.86%
+
+---Working on DayOfWeek,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.05%
+Accuracy score on training data: 52.90%
+Accuracy score on test data: 49.50%
+fitting RBF SVM
+Accuracy score: 56.38%
+Accuracy score on training data: 58.89%
+Accuracy score on test data: 48.87%
+
+---Working on DayOfWeek,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.80%
+Accuracy score on training data: 51.94%
+Accuracy score on test data: 51.40%
+fitting RBF SVM
+Accuracy score: 57.53%
+Accuracy score on training data: 59.55%
+Accuracy score on test data: 51.49%
+
+---Working on DayOfWeek,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.76%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 47.64%
+fitting RBF SVM
+Accuracy score: 50.80%
+Accuracy score on training data: 51.83%
+Accuracy score on test data: 47.74%
+
+---Working on DayOfWeek,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.94%
+Accuracy score on training data: 52.27%
+Accuracy score on test data: 50.95%
+fitting RBF SVM
+Accuracy score: 52.41%
+Accuracy score on training data: 52.96%
+Accuracy score on test data: 50.77%
+
+---Working on DayOfWeek,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.60%
+Accuracy score on training data: 51.67%
+Accuracy score on test data: 51.40%
+fitting RBF SVM
+Accuracy score: 52.05%
+Accuracy score on training data: 52.90%
+Accuracy score on test data: 49.50%
+
+---Working on DayOfWeek,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.39%
+Accuracy score on training data: 52.00%
+Accuracy score on test data: 53.56%
+fitting RBF SVM
+Accuracy score: 52.64%
+Accuracy score on training data: 52.78%
+Accuracy score on test data: 52.21%
+
+---Working on DayOfWeek,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.57%
+Accuracy score on training data: 51.61%
+Accuracy score on test data: 55.46%
+fitting RBF SVM
+Accuracy score: 51.85%
+Accuracy score on training data: 52.39%
+Accuracy score on test data: 50.23%
+
+---Working on DayOfWeek,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.93%
+Accuracy score on training data: 52.93%
+Accuracy score on test data: 52.93%
+fitting RBF SVM
+Accuracy score: 52.80%
+Accuracy score on training data: 53.23%
+Accuracy score on test data: 51.49%
+
+---Working on DayOfWeek,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.97%
+Accuracy score on training data: 51.13%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 77.22%
+Accuracy score on training data: 85.92%
+Accuracy score on test data: 51.13%
+
+---Working on DayOfWeek,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.95%
+Accuracy score on training data: 51.19%
+Accuracy score on test data: 46.26%
+fitting RBF SVM
+Accuracy score: 77.88%
+Accuracy score on training data: 87.04%
+Accuracy score on test data: 50.41%
+
+---Working on DayOfWeek,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.23%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 49.50%
+fitting RBF SVM
+Accuracy score: 76.59%
+Accuracy score on training data: 85.83%
+Accuracy score on test data: 48.87%
+
+---Working on DayOfWeek,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.37%
+Accuracy score on training data: 52.75%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 77.60%
+Accuracy score on training data: 86.92%
+Accuracy score on test data: 49.68%
+
+---Working on DayOfWeek,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.59%
+Accuracy score on training data: 50.80%
+Accuracy score on test data: 49.95%
+fitting RBF SVM
+Accuracy score: 78.15%
+Accuracy score on training data: 87.43%
+Accuracy score on test data: 50.32%
+
+---Working on DayOfWeek,1_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 48.67%
+Accuracy score on training data: 48.81%
+Accuracy score on test data: 48.24%
+fitting RBF SVM
+Accuracy score: 80.97%
+Accuracy score on training data: 91.94%
+Accuracy score on test data: 48.06%
+
+---Working on DayOfWeek,5_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.65%
+Accuracy score on training data: 51.61%
+Accuracy score on test data: 51.76%
+fitting RBF SVM
+Accuracy score: 75.30%
+Accuracy score on training data: 84.15%
+Accuracy score on test data: 48.78%
+
+---Working on DayOfWeek,10_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.15%
+Accuracy score on training data: 51.43%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 74.04%
+Accuracy score on training data: 81.89%
+Accuracy score on test data: 50.50%
+
+---Working on DayOfWeek,20_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.65%
+Accuracy score on training data: 51.64%
+Accuracy score on test data: 51.67%
+fitting RBF SVM
+Accuracy score: 72.89%
+Accuracy score on training data: 80.48%
+Accuracy score on test data: 50.14%
+
+---Working on DayOfWeek,40_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 51.10%
+Accuracy score on test data: 49.14%
+fitting RBF SVM
+Accuracy score: 71.18%
+Accuracy score on training data: 77.86%
+Accuracy score on test data: 51.13%
+
+---Working on DayOfWeek,80_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.68%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 69.78%
+Accuracy score on training data: 77.11%
+Accuracy score on test data: 47.79%
+
+---Working on DayOfWeek,1_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 51.55%
+Accuracy score on test data: 52.17%
+fitting RBF SVM
+Accuracy score: 52.81%
+Accuracy score on training data: 53.92%
+Accuracy score on test data: 49.49%
+
+---Working on DayOfWeek,5_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.88%
+Accuracy score on training data: 51.29%
+Accuracy score on test data: 49.64%
+fitting RBF SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 51.87%
+Accuracy score on test data: 48.19%
+
+---Working on DayOfWeek,10_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.28%
+Accuracy score on training data: 50.93%
+Accuracy score on test data: 48.33%
+fitting RBF SVM
+Accuracy score: 51.59%
+Accuracy score on training data: 52.56%
+Accuracy score on test data: 48.69%
+
+---Working on DayOfWeek,20_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.33%
+Accuracy score on training data: 51.49%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 51.60%
+Accuracy score on training data: 51.88%
+Accuracy score on test data: 50.77%
+
+---Working on DayOfWeek,40_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.11%
+Accuracy score on training data: 52.20%
+Accuracy score on test data: 51.85%
+fitting RBF SVM
+Accuracy score: 51.30%
+Accuracy score on training data: 52.89%
+Accuracy score on test data: 46.53%
+
+---Working on DayOfWeek,80_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.83%
+Accuracy score on training data: 51.10%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 52.39%
+Accuracy score on test data: 48.24%
+
+---Working on DayOfWeek,1_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 49.86%
+Accuracy score on test data: 51.49%
+fitting RBF SVM
+Accuracy score: 53.72%
+Accuracy score on training data: 55.25%
+Accuracy score on test data: 49.14%
+
+---Working on DayOfWeek,5_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.83%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 53.63%
+Accuracy score on training data: 55.46%
+Accuracy score on test data: 48.15%
+
+---Working on DayOfWeek,10_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.31%
+Accuracy score on training data: 50.77%
+Accuracy score on test data: 52.93%
+fitting RBF SVM
+Accuracy score: 55.91%
+Accuracy score on training data: 58.02%
+Accuracy score on test data: 49.59%
+
+---Working on DayOfWeek,20_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.95%
+Accuracy score on training data: 50.77%
+Accuracy score on test data: 47.52%
+fitting RBF SVM
+Accuracy score: 56.18%
+Accuracy score on training data: 58.20%
+Accuracy score on test data: 50.14%
+
+---Working on DayOfWeek,40_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.63%
+Accuracy score on training data: 50.56%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 57.53%
+Accuracy score on training data: 59.34%
+Accuracy score on test data: 52.12%
+
+---Working on DayOfWeek,80_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.59%
+Accuracy score on training data: 51.73%
+Accuracy score on test data: 47.16%
+fitting RBF SVM
+Accuracy score: 58.43%
+Accuracy score on training data: 60.75%
+Accuracy score on test data: 51.49%
+
+---Working on DayOfWeek,1_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.20%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 48.33%
+fitting RBF SVM
+Accuracy score: 53.77%
+Accuracy score on training data: 55.73%
+Accuracy score on test data: 47.88%
+
+---Working on DayOfWeek,5_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.74%
+Accuracy score on training data: 51.16%
+Accuracy score on test data: 49.50%
+fitting RBF SVM
+Accuracy score: 53.09%
+Accuracy score on training data: 53.53%
+Accuracy score on test data: 51.76%
+
+---Working on DayOfWeek,10_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.65%
+Accuracy score on training data: 52.81%
+Accuracy score on test data: 48.15%
+fitting RBF SVM
+Accuracy score: 52.82%
+Accuracy score on training data: 53.92%
+Accuracy score on test data: 49.50%
+
+---Working on DayOfWeek,20_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.03%
+Accuracy score on training data: 51.70%
+Accuracy score on test data: 53.02%
+fitting RBF SVM
+Accuracy score: 52.77%
+Accuracy score on training data: 53.44%
+Accuracy score on test data: 50.77%
+
+---Working on DayOfWeek,40_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.39%
+Accuracy score on training data: 52.36%
+Accuracy score on test data: 52.48%
+fitting RBF SVM
+Accuracy score: 52.82%
+Accuracy score on training data: 53.41%
+Accuracy score on test data: 51.04%
+
+---Working on DayOfWeek,80_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.07%
+Accuracy score on training data: 52.63%
+Accuracy score on test data: 50.41%
+fitting RBF SVM
+Accuracy score: 53.02%
+Accuracy score on training data: 54.53%
+Accuracy score on test data: 48.51%
+
+---Working on Hour,1_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.02%
+Accuracy score on training data: 52.63%
+Accuracy score on test data: 54.19%
+fitting RBF SVM
+Accuracy score: 52.62%
+Accuracy score on training data: 52.60%
+Accuracy score on test data: 52.66%
+
+---Working on Hour,5_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 50.89%
+Accuracy score on test data: 49.77%
+fitting RBF SVM
+Accuracy score: 51.15%
+Accuracy score on training data: 51.52%
+Accuracy score on test data: 50.05%
+
+---Working on Hour,10_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.71%
+Accuracy score on training data: 50.63%
+Accuracy score on test data: 50.95%
+fitting RBF SVM
+Accuracy score: 50.91%
+Accuracy score on training data: 51.20%
+Accuracy score on test data: 50.05%
+
+---Working on Hour,20_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.90%
+Accuracy score on training data: 51.71%
+Accuracy score on test data: 48.47%
+fitting RBF SVM
+Accuracy score: 51.74%
+Accuracy score on training data: 52.32%
+Accuracy score on test data: 50.00%
+
+---Working on Hour,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.86%
+Accuracy score on training data: 50.63%
+Accuracy score on test data: 47.56%
+fitting RBF SVM
+Accuracy score: 51.33%
+Accuracy score on training data: 51.90%
+Accuracy score on test data: 49.64%
+
+---Working on Hour,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.13%
+Accuracy score on training data: 51.88%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 51.76%
+Accuracy score on training data: 52.67%
+Accuracy score on test data: 49.05%
+
+---Working on Hour,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.47%
+Accuracy score on training data: 52.83%
+Accuracy score on test data: 51.39%
+fitting RBF SVM
+Accuracy score: 53.00%
+Accuracy score on training data: 53.73%
+Accuracy score on test data: 50.83%
+
+---Working on Hour,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.20%
+Accuracy score on training data: 51.79%
+Accuracy score on test data: 53.42%
+fitting RBF SVM
+Accuracy score: 52.95%
+Accuracy score on training data: 53.41%
+Accuracy score on test data: 51.60%
+
+---Working on Hour,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.48%
+Accuracy score on training data: 50.35%
+Accuracy score on test data: 46.86%
+fitting RBF SVM
+Accuracy score: 51.48%
+Accuracy score on training data: 51.90%
+Accuracy score on test data: 50.23%
+
+---Working on Hour,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.03%
+Accuracy score on training data: 53.33%
+Accuracy score on test data: 52.13%
+fitting RBF SVM
+Accuracy score: 53.47%
+Accuracy score on training data: 53.82%
+Accuracy score on test data: 52.41%
+
+---Working on Hour,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.98%
+Accuracy score on training data: 52.23%
+Accuracy score on test data: 51.23%
+fitting RBF SVM
+Accuracy score: 52.68%
+Accuracy score on training data: 52.95%
+Accuracy score on test data: 51.86%
+
+---Working on Hour,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.88%
+Accuracy score on training data: 51.95%
+Accuracy score on test data: 51.68%
+fitting RBF SVM
+Accuracy score: 52.68%
+Accuracy score on training data: 53.65%
+Accuracy score on test data: 49.77%
+
+---Working on Hour,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.65%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 51.43%
+Accuracy score on test data: 51.13%
+
+---Working on Hour,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.12%
+Accuracy score on training data: 52.45%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 54.92%
+Accuracy score on training data: 56.21%
+Accuracy score on test data: 51.04%
+
+---Working on Hour,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.63%
+Accuracy score on training data: 52.69%
+Accuracy score on test data: 56.45%
+fitting RBF SVM
+Accuracy score: 56.13%
+Accuracy score on training data: 57.14%
+Accuracy score on test data: 53.11%
+
+---Working on Hour,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.80%
+Accuracy score on training data: 52.57%
+Accuracy score on test data: 53.47%
+fitting RBF SVM
+Accuracy score: 56.52%
+Accuracy score on training data: 58.29%
+Accuracy score on test data: 51.22%
+
+---Working on Hour,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.43%
+Accuracy score on training data: 51.43%
+Accuracy score on test data: 47.43%
+fitting RBF SVM
+Accuracy score: 57.15%
+Accuracy score on training data: 59.28%
+Accuracy score on test data: 50.77%
+
+---Working on Hour,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.74%
+Accuracy score on training data: 51.55%
+Accuracy score on test data: 52.30%
+fitting RBF SVM
+Accuracy score: 58.95%
+Accuracy score on training data: 61.35%
+Accuracy score on test data: 51.76%
+
+---Working on Hour,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.60%
+Accuracy score on training data: 50.56%
+Accuracy score on test data: 50.72%
+fitting RBF SVM
+Accuracy score: 51.55%
+Accuracy score on training data: 51.98%
+Accuracy score on test data: 50.27%
+
+---Working on Hour,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.40%
+Accuracy score on training data: 51.73%
+Accuracy score on test data: 50.41%
+fitting RBF SVM
+Accuracy score: 52.93%
+Accuracy score on training data: 53.47%
+Accuracy score on test data: 51.31%
+
+---Working on Hour,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.41%
+Accuracy score on training data: 52.18%
+Accuracy score on test data: 53.11%
+fitting RBF SVM
+Accuracy score: 52.35%
+Accuracy score on training data: 52.96%
+Accuracy score on test data: 50.50%
+
+---Working on Hour,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.26%
+Accuracy score on training data: 51.70%
+Accuracy score on test data: 49.95%
+fitting RBF SVM
+Accuracy score: 52.07%
+Accuracy score on training data: 52.18%
+Accuracy score on test data: 51.76%
+
+---Working on Hour,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.38%
+Accuracy score on training data: 51.76%
+Accuracy score on test data: 50.23%
+fitting RBF SVM
+Accuracy score: 51.80%
+Accuracy score on training data: 52.33%
+Accuracy score on test data: 50.23%
+
+---Working on Hour,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.97%
+Accuracy score on training data: 50.89%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 51.42%
+Accuracy score on training data: 51.94%
+Accuracy score on test data: 49.86%
+
+---Working on Hour,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.74%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 77.81%
+Accuracy score on training data: 87.79%
+Accuracy score on test data: 47.88%
+
+---Working on Hour,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.77%
+Accuracy score on training data: 50.29%
+Accuracy score on test data: 52.21%
+fitting RBF SVM
+Accuracy score: 78.21%
+Accuracy score on training data: 88.00%
+Accuracy score on test data: 48.87%
+
+---Working on Hour,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.12%
+Accuracy score on training data: 52.15%
+Accuracy score on test data: 52.03%
+fitting RBF SVM
+Accuracy score: 78.10%
+Accuracy score on training data: 87.82%
+Accuracy score on test data: 48.96%
+
+---Working on Hour,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.50%
+Accuracy score on training data: 50.44%
+Accuracy score on test data: 50.68%
+fitting RBF SVM
+Accuracy score: 77.79%
+Accuracy score on training data: 86.95%
+Accuracy score on test data: 50.32%
+
+---Working on Hour,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.31%
+Accuracy score on training data: 52.00%
+Accuracy score on test data: 49.23%
+fitting RBF SVM
+Accuracy score: 78.62%
+Accuracy score on training data: 88.36%
+Accuracy score on test data: 49.41%
+
+---Working on Hour,1_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.74%
+Accuracy score on training data: 50.14%
+Accuracy score on test data: 52.57%
+fitting RBF SVM
+Accuracy score: 82.14%
+Accuracy score on training data: 92.30%
+Accuracy score on test data: 51.67%
+
+---Working on Hour,5_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.47%
+Accuracy score on training data: 52.33%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 76.70%
+Accuracy score on training data: 86.68%
+Accuracy score on test data: 46.80%
+
+---Working on Hour,10_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.34%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 49.14%
+fitting RBF SVM
+Accuracy score: 75.48%
+Accuracy score on training data: 83.13%
+Accuracy score on test data: 52.57%
+
+---Working on Hour,20_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.02%
+Accuracy score on training data: 50.26%
+Accuracy score on test data: 49.32%
+fitting RBF SVM
+Accuracy score: 74.27%
+Accuracy score on training data: 81.77%
+Accuracy score on test data: 51.76%
+
+---Working on Hour,40_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.99%
+Accuracy score on training data: 51.25%
+Accuracy score on test data: 50.23%
+fitting RBF SVM
+Accuracy score: 73.50%
+Accuracy score on training data: 81.11%
+Accuracy score on test data: 50.68%
+
+---Working on Hour,80_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.50%
+Accuracy score on training data: 50.80%
+Accuracy score on test data: 49.59%
+fitting RBF SVM
+Accuracy score: 71.52%
+Accuracy score on training data: 78.50%
+Accuracy score on test data: 50.59%
+
+---Working on Hour,1_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.41%
+Accuracy score on training data: 51.34%
+Accuracy score on test data: 51.61%
+fitting RBF SVM
+Accuracy score: 52.53%
+Accuracy score on training data: 52.87%
+Accuracy score on test data: 51.52%
+
+---Working on Hour,5_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.90%
+Accuracy score on training data: 50.87%
+Accuracy score on test data: 50.99%
+fitting RBF SVM
+Accuracy score: 51.60%
+Accuracy score on training data: 51.90%
+Accuracy score on test data: 50.72%
+
+---Working on Hour,10_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.65%
+Accuracy score on training data: 52.71%
+Accuracy score on test data: 52.48%
+fitting RBF SVM
+Accuracy score: 53.10%
+Accuracy score on training data: 53.28%
+Accuracy score on test data: 52.57%
+
+---Working on Hour,20_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.26%
+Accuracy score on training data: 51.04%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 52.86%
+Accuracy score on training data: 53.11%
+Accuracy score on test data: 52.12%
+
+---Working on Hour,40_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.18%
+Accuracy score on training data: 50.93%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 52.20%
+Accuracy score on training data: 52.17%
+Accuracy score on test data: 52.30%
+
+---Working on Hour,80_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.39%
+Accuracy score on training data: 52.60%
+Accuracy score on test data: 51.76%
+fitting RBF SVM
+Accuracy score: 52.17%
+Accuracy score on training data: 52.81%
+Accuracy score on test data: 50.23%
+
+---Working on Hour,1_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.90%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 50.68%
+fitting RBF SVM
+Accuracy score: 53.47%
+Accuracy score on training data: 54.35%
+Accuracy score on test data: 50.86%
+
+---Working on Hour,5_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.15%
+Accuracy score on training data: 51.46%
+Accuracy score on test data: 50.23%
+fitting RBF SVM
+Accuracy score: 55.35%
+Accuracy score on training data: 57.20%
+Accuracy score on test data: 49.77%
+
+---Working on Hour,10_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.99%
+Accuracy score on training data: 50.44%
+Accuracy score on test data: 52.66%
+fitting RBF SVM
+Accuracy score: 56.04%
+Accuracy score on training data: 57.32%
+Accuracy score on test data: 52.21%
+
+---Working on Hour,20_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.09%
+Accuracy score on training data: 50.17%
+Accuracy score on test data: 49.86%
+fitting RBF SVM
+Accuracy score: 56.31%
+Accuracy score on training data: 58.74%
+Accuracy score on test data: 49.05%
+
+---Working on Hour,40_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.83%
+Accuracy score on training data: 51.52%
+Accuracy score on test data: 48.78%
+fitting RBF SVM
+Accuracy score: 58.01%
+Accuracy score on training data: 60.00%
+Accuracy score on test data: 52.03%
+
+---Working on Hour,80_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.92%
+Accuracy score on training data: 51.79%
+Accuracy score on test data: 52.30%
+fitting RBF SVM
+Accuracy score: 59.43%
+Accuracy score on training data: 62.44%
+Accuracy score on test data: 50.41%
+
+---Working on Hour,1_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.95%
+Accuracy score on training data: 50.59%
+Accuracy score on test data: 48.06%
+fitting RBF SVM
+Accuracy score: 53.04%
+Accuracy score on training data: 53.98%
+Accuracy score on test data: 50.23%
+
+---Working on Hour,5_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.13%
+Accuracy score on training data: 51.46%
+Accuracy score on test data: 50.14%
+fitting RBF SVM
+Accuracy score: 52.84%
+Accuracy score on training data: 53.20%
+Accuracy score on test data: 51.76%
+
+---Working on Hour,10_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.70%
+Accuracy score on training data: 51.91%
+Accuracy score on test data: 47.07%
+fitting RBF SVM
+Accuracy score: 52.57%
+Accuracy score on training data: 53.74%
+Accuracy score on test data: 49.05%
+
+---Working on Hour,20_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.11%
+Accuracy score on training data: 50.68%
+Accuracy score on test data: 48.42%
+fitting RBF SVM
+Accuracy score: 52.80%
+Accuracy score on training data: 52.90%
+Accuracy score on test data: 52.48%
+
+---Working on Hour,40_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.48%
+Accuracy score on training data: 53.02%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 52.84%
+Accuracy score on training data: 53.38%
+Accuracy score on test data: 51.22%
+
+---Working on Hour,80_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.04%
+Accuracy score on training data: 51.34%
+Accuracy score on test data: 50.14%
+fitting RBF SVM
+Accuracy score: 51.76%
+Accuracy score on training data: 52.45%
+Accuracy score on test data: 49.68%
+
+---Working on 1_min_prior,5_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.25%
+Accuracy score on training data: 50.32%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 50.25%
+Accuracy score on training data: 50.32%
+Accuracy score on test data: 50.05%
+
+---Working on 1_min_prior,10_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.25%
+Accuracy score on training data: 52.08%
+Accuracy score on test data: 48.78%
+fitting RBF SVM
+Accuracy score: 51.25%
+Accuracy score on training data: 52.08%
+Accuracy score on test data: 48.78%
+
+---Working on 1_min_prior,20_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.29%
+Accuracy score on training data: 51.56%
+Accuracy score on test data: 50.45%
+fitting RBF SVM
+Accuracy score: 51.29%
+Accuracy score on training data: 51.56%
+Accuracy score on test data: 50.45%
+
+---Working on 1_min_prior,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 51.08%
+Accuracy score on test data: 49.19%
+fitting RBF SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 51.08%
+Accuracy score on test data: 49.19%
+
+---Working on 1_min_prior,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.68%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 50.68%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 50.50%
+
+---Working on 1_min_prior,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.25%
+Accuracy score on training data: 50.55%
+Accuracy score on test data: 49.35%
+fitting RBF SVM
+Accuracy score: 50.25%
+Accuracy score on training data: 50.55%
+Accuracy score on test data: 49.35%
+
+---Working on 1_min_prior,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.56%
+Accuracy score on training data: 51.89%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 51.56%
+Accuracy score on training data: 51.89%
+Accuracy score on test data: 50.59%
+
+---Working on 1_min_prior,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.11%
+Accuracy score on training data: 50.44%
+Accuracy score on test data: 49.14%
+fitting RBF SVM
+Accuracy score: 50.11%
+Accuracy score on training data: 50.44%
+Accuracy score on test data: 49.14%
+
+---Working on 1_min_prior,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.69%
+Accuracy score on training data: 53.27%
+Accuracy score on test data: 50.95%
+fitting RBF SVM
+Accuracy score: 52.69%
+Accuracy score on training data: 53.27%
+Accuracy score on test data: 50.95%
+
+---Working on 1_min_prior,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.39%
+Accuracy score on training data: 51.14%
+Accuracy score on test data: 52.13%
+fitting RBF SVM
+Accuracy score: 51.39%
+Accuracy score on training data: 51.14%
+Accuracy score on test data: 52.13%
+
+---Working on 1_min_prior,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.91%
+Accuracy score on training data: 52.04%
+Accuracy score on test data: 51.50%
+fitting RBF SVM
+Accuracy score: 51.91%
+Accuracy score on training data: 52.04%
+Accuracy score on test data: 51.50%
+
+---Working on 1_min_prior,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 50.65%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 50.65%
+Accuracy score on test data: 50.50%
+
+---Working on 1_min_prior,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.04%
+Accuracy score on training data: 50.86%
+Accuracy score on test data: 51.58%
+fitting RBF SVM
+Accuracy score: 51.89%
+Accuracy score on training data: 52.75%
+Accuracy score on test data: 49.32%
+
+---Working on 1_min_prior,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.01%
+Accuracy score on training data: 50.35%
+Accuracy score on test data: 53.02%
+fitting RBF SVM
+Accuracy score: 52.44%
+Accuracy score on training data: 53.20%
+Accuracy score on test data: 50.14%
+
+---Working on 1_min_prior,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.89%
+Accuracy score on training data: 51.25%
+Accuracy score on test data: 53.83%
+fitting RBF SVM
+Accuracy score: 53.20%
+Accuracy score on training data: 54.62%
+Accuracy score on test data: 48.96%
+
+---Working on 1_min_prior,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.50%
+Accuracy score on training data: 50.89%
+Accuracy score on test data: 49.32%
+fitting RBF SVM
+Accuracy score: 52.68%
+Accuracy score on training data: 54.14%
+Accuracy score on test data: 48.33%
+
+---Working on 1_min_prior,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.72%
+Accuracy score on training data: 51.16%
+Accuracy score on test data: 49.41%
+fitting RBF SVM
+Accuracy score: 53.95%
+Accuracy score on training data: 55.04%
+Accuracy score on test data: 50.68%
+
+---Working on 1_min_prior,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.17%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 52.45%
+fitting RBF SVM
+Accuracy score: 51.17%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 52.45%
+
+---Working on 1_min_prior,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.76%
+Accuracy score on training data: 51.55%
+Accuracy score on test data: 52.39%
+fitting RBF SVM
+Accuracy score: 51.76%
+Accuracy score on training data: 51.55%
+Accuracy score on test data: 52.39%
+
+---Working on 1_min_prior,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.08%
+Accuracy score on training data: 50.56%
+Accuracy score on test data: 52.66%
+fitting RBF SVM
+Accuracy score: 51.08%
+Accuracy score on training data: 50.56%
+Accuracy score on test data: 52.66%
+
+---Working on 1_min_prior,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.64%
+Accuracy score on training data: 52.03%
+Accuracy score on test data: 54.46%
+fitting RBF SVM
+Accuracy score: 52.64%
+Accuracy score on training data: 52.03%
+Accuracy score on test data: 54.46%
+
+---Working on 1_min_prior,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.02%
+Accuracy score on training data: 52.78%
+Accuracy score on test data: 53.74%
+fitting RBF SVM
+Accuracy score: 53.02%
+Accuracy score on training data: 52.78%
+Accuracy score on test data: 53.74%
+
+---Working on 1_min_prior,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.30%
+Accuracy score on training data: 52.27%
+Accuracy score on test data: 52.39%
+fitting RBF SVM
+Accuracy score: 52.30%
+Accuracy score on training data: 52.27%
+Accuracy score on test data: 52.39%
+
+---Working on 1_min_prior,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.75%
+Accuracy score on training data: 49.65%
+Accuracy score on test data: 50.05%
+fitting RBF SVM
+Accuracy score: 70.07%
+Accuracy score on training data: 76.33%
+Accuracy score on test data: 51.31%
+
+---Working on 1_min_prior,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.93%
+Accuracy score on training data: 49.77%
+Accuracy score on test data: 50.41%
+fitting RBF SVM
+Accuracy score: 69.26%
+Accuracy score on training data: 75.73%
+Accuracy score on test data: 49.86%
+
+---Working on 1_min_prior,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.23%
+Accuracy score on training data: 50.62%
+Accuracy score on test data: 49.05%
+fitting RBF SVM
+Accuracy score: 69.37%
+Accuracy score on training data: 75.61%
+Accuracy score on test data: 50.68%
+
+---Working on 1_min_prior,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 51.10%
+Accuracy score on test data: 52.12%
+fitting RBF SVM
+Accuracy score: 68.72%
+Accuracy score on training data: 75.01%
+Accuracy score on test data: 49.86%
+
+---Working on 1_min_prior,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 50.59%
+Accuracy score on test data: 52.03%
+fitting RBF SVM
+Accuracy score: 68.22%
+Accuracy score on training data: 75.22%
+Accuracy score on test data: 47.25%
+
+---Working on 1_min_prior,1_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.41%
+Accuracy score on training data: 50.41%
+Accuracy score on test data: 50.41%
+fitting RBF SVM
+Accuracy score: 73.05%
+Accuracy score on training data: 80.78%
+Accuracy score on test data: 49.86%
+
+---Working on 1_min_prior,5_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.52%
+Accuracy score on training data: 50.35%
+Accuracy score on test data: 51.04%
+fitting RBF SVM
+Accuracy score: 68.61%
+Accuracy score on training data: 74.92%
+Accuracy score on test data: 49.68%
+
+---Working on 1_min_prior,10_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.56%
+Accuracy score on training data: 50.65%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 65.99%
+Accuracy score on training data: 71.70%
+Accuracy score on test data: 48.87%
+
+---Working on 1_min_prior,20_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 50.74%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 65.22%
+Accuracy score on training data: 70.77%
+Accuracy score on test data: 48.60%
+
+---Working on 1_min_prior,40_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 52.00%
+Accuracy score on test data: 47.79%
+fitting RBF SVM
+Accuracy score: 63.87%
+Accuracy score on training data: 68.66%
+Accuracy score on test data: 49.50%
+
+---Working on 1_min_prior,80_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.86%
+Accuracy score on training data: 50.77%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 62.58%
+Accuracy score on training data: 67.22%
+Accuracy score on test data: 48.69%
+
+---Working on 1_min_prior,1_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.04%
+Accuracy score on training data: 51.00%
+Accuracy score on test data: 51.15%
+fitting RBF SVM
+Accuracy score: 51.04%
+Accuracy score on training data: 51.00%
+Accuracy score on test data: 51.15%
+
+---Working on 1_min_prior,5_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.11%
+Accuracy score on training data: 54.06%
+Accuracy score on test data: 50.27%
+fitting RBF SVM
+Accuracy score: 53.11%
+Accuracy score on training data: 54.06%
+Accuracy score on test data: 50.27%
+
+---Working on 1_min_prior,10_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.12%
+Accuracy score on training data: 51.11%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 51.12%
+Accuracy score on training data: 51.11%
+Accuracy score on test data: 51.13%
+
+---Working on 1_min_prior,20_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.24%
+Accuracy score on training data: 53.97%
+Accuracy score on test data: 51.04%
+fitting RBF SVM
+Accuracy score: 53.24%
+Accuracy score on training data: 53.97%
+Accuracy score on test data: 51.04%
+
+---Working on 1_min_prior,40_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.79%
+Accuracy score on training data: 51.84%
+Accuracy score on test data: 51.67%
+fitting RBF SVM
+Accuracy score: 51.79%
+Accuracy score on training data: 51.84%
+Accuracy score on test data: 51.67%
+
+---Working on 1_min_prior,80_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.97%
+Accuracy score on training data: 51.13%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 50.97%
+Accuracy score on training data: 51.13%
+Accuracy score on test data: 50.50%
+
+---Working on 1_min_prior,1_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 50.80%
+Accuracy score on test data: 51.40%
+fitting RBF SVM
+Accuracy score: 51.69%
+Accuracy score on training data: 52.54%
+Accuracy score on test data: 49.14%
+
+---Working on 1_min_prior,5_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.34%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 49.95%
+fitting RBF SVM
+Accuracy score: 50.86%
+Accuracy score on training data: 51.67%
+Accuracy score on test data: 48.42%
+
+---Working on 1_min_prior,10_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.34%
+Accuracy score on training data: 50.92%
+Accuracy score on test data: 48.60%
+fitting RBF SVM
+Accuracy score: 53.18%
+Accuracy score on training data: 54.02%
+Accuracy score on test data: 50.68%
+
+---Working on 1_min_prior,20_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 50.92%
+Accuracy score on test data: 48.33%
+fitting RBF SVM
+Accuracy score: 53.41%
+Accuracy score on training data: 54.65%
+Accuracy score on test data: 49.68%
+
+---Working on 1_min_prior,40_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.02%
+Accuracy score on training data: 50.26%
+Accuracy score on test data: 49.32%
+fitting RBF SVM
+Accuracy score: 53.74%
+Accuracy score on training data: 55.22%
+Accuracy score on test data: 49.32%
+
+---Working on 1_min_prior,80_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.88%
+Accuracy score on training data: 51.94%
+Accuracy score on test data: 47.70%
+fitting RBF SVM
+Accuracy score: 54.35%
+Accuracy score on training data: 55.61%
+Accuracy score on test data: 50.59%
+
+---Working on 1_min_prior,1_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.18%
+Accuracy score on training data: 50.41%
+Accuracy score on test data: 49.50%
+fitting RBF SVM
+Accuracy score: 51.87%
+Accuracy score on training data: 51.73%
+Accuracy score on test data: 52.30%
+
+---Working on 1_min_prior,5_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.69%
+Accuracy score on training data: 51.97%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 52.21%
+Accuracy score on training data: 52.66%
+Accuracy score on test data: 50.86%
+
+---Working on 1_min_prior,10_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.61%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 51.69%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 53.83%
+
+---Working on 1_min_prior,20_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.62%
+Accuracy score on training data: 52.24%
+Accuracy score on test data: 49.77%
+fitting RBF SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 52.39%
+Accuracy score on test data: 49.68%
+
+---Working on 1_min_prior,40_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.55%
+Accuracy score on training data: 52.30%
+Accuracy score on test data: 53.29%
+fitting RBF SVM
+Accuracy score: 52.75%
+Accuracy score on training data: 52.51%
+Accuracy score on test data: 53.47%
+
+---Working on 1_min_prior,80_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.14%
+Accuracy score on training data: 51.88%
+Accuracy score on test data: 52.93%
+fitting RBF SVM
+Accuracy score: 52.73%
+Accuracy score on training data: 52.30%
+Accuracy score on test data: 54.01%
+
+---Working on 5_min_prior,10_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.64%
+Accuracy score on training data: 50.87%
+Accuracy score on test data: 49.95%
+fitting RBF SVM
+Accuracy score: 50.64%
+Accuracy score on training data: 50.87%
+Accuracy score on test data: 49.95%
+
+---Working on 5_min_prior,20_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.75%
+Accuracy score on training data: 50.03%
+Accuracy score on test data: 48.92%
+fitting RBF SVM
+Accuracy score: 49.75%
+Accuracy score on training data: 50.03%
+Accuracy score on test data: 48.92%
+
+---Working on 5_min_prior,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.36%
+Accuracy score on training data: 50.99%
+Accuracy score on test data: 48.47%
+fitting RBF SVM
+Accuracy score: 50.36%
+Accuracy score on training data: 50.99%
+Accuracy score on test data: 48.47%
+
+---Working on 5_min_prior,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.36%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 48.51%
+fitting RBF SVM
+Accuracy score: 50.36%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 48.51%
+
+---Working on 5_min_prior,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.99%
+Accuracy score on training data: 52.13%
+Accuracy score on test data: 47.60%
+fitting RBF SVM
+Accuracy score: 50.99%
+Accuracy score on training data: 52.13%
+Accuracy score on test data: 47.60%
+
+---Working on 5_min_prior,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.97%
+Accuracy score on training data: 51.37%
+Accuracy score on test data: 53.78%
+fitting RBF SVM
+Accuracy score: 51.97%
+Accuracy score on training data: 51.37%
+Accuracy score on test data: 53.78%
+
+---Working on 5_min_prior,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 51.59%
+Accuracy score on test data: 52.05%
+fitting RBF SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 51.59%
+Accuracy score on test data: 52.05%
+
+---Working on 5_min_prior,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.08%
+Accuracy score on training data: 52.09%
+Accuracy score on test data: 52.04%
+fitting RBF SVM
+Accuracy score: 52.08%
+Accuracy score on training data: 52.09%
+Accuracy score on test data: 52.04%
+
+---Working on 5_min_prior,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.84%
+Accuracy score on training data: 50.29%
+Accuracy score on test data: 48.50%
+fitting RBF SVM
+Accuracy score: 49.84%
+Accuracy score on training data: 50.29%
+Accuracy score on test data: 48.50%
+
+---Working on 5_min_prior,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.61%
+Accuracy score on training data: 51.44%
+Accuracy score on test data: 52.13%
+fitting RBF SVM
+Accuracy score: 51.61%
+Accuracy score on training data: 51.44%
+Accuracy score on test data: 52.13%
+
+---Working on 5_min_prior,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 50.11%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 50.27%
+Accuracy score on training data: 50.11%
+Accuracy score on test data: 50.77%
+
+---Working on 5_min_prior,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.87%
+Accuracy score on training data: 51.34%
+Accuracy score on test data: 53.47%
+fitting RBF SVM
+Accuracy score: 52.66%
+Accuracy score on training data: 53.23%
+Accuracy score on test data: 50.95%
+
+---Working on 5_min_prior,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.68%
+Accuracy score on training data: 52.93%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 54.10%
+Accuracy score on training data: 54.38%
+Accuracy score on test data: 53.29%
+
+---Working on 5_min_prior,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.42%
+Accuracy score on training data: 51.58%
+Accuracy score on test data: 50.95%
+fitting RBF SVM
+Accuracy score: 53.83%
+Accuracy score on training data: 54.80%
+Accuracy score on test data: 50.95%
+
+---Working on 5_min_prior,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.76%
+Accuracy score on training data: 51.85%
+Accuracy score on test data: 51.49%
+fitting RBF SVM
+Accuracy score: 52.89%
+Accuracy score on training data: 53.32%
+Accuracy score on test data: 51.58%
+
+---Working on 5_min_prior,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.14%
+Accuracy score on training data: 50.68%
+Accuracy score on test data: 48.51%
+fitting RBF SVM
+Accuracy score: 55.10%
+Accuracy score on training data: 56.00%
+Accuracy score on test data: 52.39%
+
+---Working on 5_min_prior,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.19%
+Accuracy score on training data: 50.50%
+Accuracy score on test data: 49.28%
+fitting RBF SVM
+Accuracy score: 50.19%
+Accuracy score on training data: 50.50%
+Accuracy score on test data: 49.28%
+
+---Working on 5_min_prior,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.73%
+Accuracy score on training data: 52.20%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 51.73%
+Accuracy score on training data: 52.20%
+Accuracy score on test data: 50.32%
+
+---Working on 5_min_prior,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.12%
+Accuracy score on training data: 52.15%
+Accuracy score on test data: 52.03%
+fitting RBF SVM
+Accuracy score: 52.12%
+Accuracy score on training data: 52.15%
+Accuracy score on test data: 52.03%
+
+---Working on 5_min_prior,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.41%
+Accuracy score on training data: 52.72%
+Accuracy score on test data: 51.49%
+fitting RBF SVM
+Accuracy score: 52.41%
+Accuracy score on training data: 52.72%
+Accuracy score on test data: 51.49%
+
+---Working on 5_min_prior,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.30%
+Accuracy score on training data: 53.02%
+Accuracy score on test data: 50.14%
+fitting RBF SVM
+Accuracy score: 52.30%
+Accuracy score on training data: 53.02%
+Accuracy score on test data: 50.14%
+
+---Working on 5_min_prior,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.17%
+Accuracy score on training data: 51.40%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 51.17%
+Accuracy score on training data: 51.40%
+Accuracy score on test data: 50.50%
+
+---Working on 5_min_prior,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.65%
+Accuracy score on training data: 50.62%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 69.80%
+Accuracy score on training data: 75.94%
+Accuracy score on test data: 51.40%
+
+---Working on 5_min_prior,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.28%
+Accuracy score on training data: 49.17%
+Accuracy score on test data: 49.59%
+fitting RBF SVM
+Accuracy score: 69.58%
+Accuracy score on training data: 76.27%
+Accuracy score on test data: 49.50%
+
+---Working on 5_min_prior,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.68%
+Accuracy score on training data: 50.47%
+Accuracy score on test data: 51.31%
+fitting RBF SVM
+Accuracy score: 69.33%
+Accuracy score on training data: 75.91%
+Accuracy score on test data: 49.59%
+
+---Working on 5_min_prior,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.86%
+Accuracy score on training data: 49.71%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 69.12%
+Accuracy score on training data: 76.12%
+Accuracy score on test data: 48.15%
+
+---Working on 5_min_prior,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 48.51%
+Accuracy score on training data: 47.61%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 68.85%
+Accuracy score on training data: 75.49%
+Accuracy score on test data: 48.96%
+
+---Working on 5_min_prior,1_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.59%
+Accuracy score on training data: 49.68%
+Accuracy score on test data: 49.32%
+fitting RBF SVM
+Accuracy score: 73.00%
+Accuracy score on training data: 80.36%
+Accuracy score on test data: 50.95%
+
+---Working on 5_min_prior,5_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.24%
+Accuracy score on training data: 51.22%
+Accuracy score on test data: 51.31%
+fitting RBF SVM
+Accuracy score: 67.97%
+Accuracy score on training data: 74.05%
+Accuracy score on test data: 49.77%
+
+---Working on 5_min_prior,10_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.36%
+Accuracy score on training data: 50.56%
+Accuracy score on test data: 49.77%
+fitting RBF SVM
+Accuracy score: 65.72%
+Accuracy score on training data: 71.34%
+Accuracy score on test data: 48.87%
+
+---Working on 5_min_prior,20_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.95%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 51.31%
+fitting RBF SVM
+Accuracy score: 63.98%
+Accuracy score on training data: 68.81%
+Accuracy score on test data: 49.50%
+
+---Working on 5_min_prior,40_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.98%
+Accuracy score on training data: 50.17%
+Accuracy score on test data: 49.41%
+fitting RBF SVM
+Accuracy score: 65.56%
+Accuracy score on training data: 70.05%
+Accuracy score on test data: 52.12%
+
+---Working on 5_min_prior,80_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.25%
+Accuracy score on training data: 50.35%
+Accuracy score on test data: 49.95%
+fitting RBF SVM
+Accuracy score: 63.01%
+Accuracy score on training data: 67.52%
+Accuracy score on test data: 49.50%
+
+---Working on 5_min_prior,1_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.16%
+Accuracy score on training data: 50.78%
+Accuracy score on test data: 48.29%
+fitting RBF SVM
+Accuracy score: 50.16%
+Accuracy score on training data: 50.78%
+Accuracy score on test data: 48.29%
+
+---Working on 5_min_prior,5_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.17%
+Accuracy score on training data: 53.01%
+Accuracy score on test data: 49.64%
+fitting RBF SVM
+Accuracy score: 52.17%
+Accuracy score on training data: 53.01%
+Accuracy score on test data: 49.64%
+
+---Working on 5_min_prior,10_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.62%
+Accuracy score on training data: 51.41%
+Accuracy score on test data: 52.26%
+fitting RBF SVM
+Accuracy score: 51.62%
+Accuracy score on training data: 51.41%
+Accuracy score on test data: 52.26%
+
+---Working on 5_min_prior,20_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.11%
+Accuracy score on training data: 52.17%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 52.11%
+Accuracy score on training data: 52.17%
+Accuracy score on test data: 51.94%
+
+---Working on 5_min_prior,40_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.57%
+Accuracy score on training data: 52.35%
+Accuracy score on test data: 49.23%
+fitting RBF SVM
+Accuracy score: 51.57%
+Accuracy score on training data: 52.35%
+Accuracy score on test data: 49.23%
+
+---Working on 5_min_prior,80_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.30%
+Accuracy score on training data: 51.87%
+Accuracy score on test data: 49.59%
+fitting RBF SVM
+Accuracy score: 51.30%
+Accuracy score on training data: 51.87%
+Accuracy score on test data: 49.59%
+
+---Working on 5_min_prior,1_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.54%
+Accuracy score on training data: 50.62%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 52.48%
+Accuracy score on training data: 53.02%
+Accuracy score on test data: 50.86%
+
+---Working on 5_min_prior,5_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.31%
+Accuracy score on training data: 50.86%
+Accuracy score on test data: 52.66%
+fitting RBF SVM
+Accuracy score: 52.62%
+Accuracy score on training data: 53.68%
+Accuracy score on test data: 49.41%
+
+---Working on 5_min_prior,10_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.31%
+Accuracy score on training data: 50.95%
+Accuracy score on test data: 52.39%
+fitting RBF SVM
+Accuracy score: 53.00%
+Accuracy score on training data: 53.77%
+Accuracy score on test data: 50.68%
+
+---Working on 5_min_prior,20_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.15%
+Accuracy score on training data: 51.22%
+Accuracy score on test data: 50.95%
+fitting RBF SVM
+Accuracy score: 53.02%
+Accuracy score on training data: 54.02%
+Accuracy score on test data: 50.05%
+
+---Working on 5_min_prior,40_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.55%
+Accuracy score on training data: 50.41%
+Accuracy score on test data: 46.98%
+fitting RBF SVM
+Accuracy score: 52.95%
+Accuracy score on training data: 54.59%
+Accuracy score on test data: 48.06%
+
+---Working on 5_min_prior,80_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.83%
+Accuracy score on training data: 51.01%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 55.14%
+Accuracy score on training data: 56.42%
+Accuracy score on test data: 51.31%
+
+---Working on 5_min_prior,1_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 51.19%
+Accuracy score on test data: 51.85%
+fitting RBF SVM
+Accuracy score: 51.71%
+Accuracy score on training data: 52.18%
+Accuracy score on test data: 50.32%
+
+---Working on 5_min_prior,5_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.69%
+Accuracy score on training data: 52.72%
+Accuracy score on test data: 48.60%
+fitting RBF SVM
+Accuracy score: 51.76%
+Accuracy score on training data: 52.75%
+Accuracy score on test data: 48.78%
+
+---Working on 5_min_prior,10_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.22%
+Accuracy score on training data: 50.98%
+Accuracy score on test data: 51.94%
+fitting RBF SVM
+Accuracy score: 51.22%
+Accuracy score on training data: 51.61%
+Accuracy score on test data: 50.05%
+
+---Working on 5_min_prior,20_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.73%
+Accuracy score on training data: 52.78%
+Accuracy score on test data: 52.57%
+fitting RBF SVM
+Accuracy score: 52.30%
+Accuracy score on training data: 52.48%
+Accuracy score on test data: 51.76%
+
+---Working on 5_min_prior,40_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.25%
+Accuracy score on training data: 53.29%
+Accuracy score on test data: 53.11%
+fitting RBF SVM
+Accuracy score: 52.39%
+Accuracy score on training data: 52.81%
+Accuracy score on test data: 51.13%
+
+---Working on 5_min_prior,80_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.22%
+Accuracy score on training data: 51.73%
+Accuracy score on test data: 49.68%
+fitting RBF SVM
+Accuracy score: 51.83%
+Accuracy score on training data: 52.09%
+Accuracy score on test data: 51.04%
+
+---Working on 10_min_prior,20_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.04%
+Accuracy score on training data: 51.29%
+Accuracy score on test data: 50.27%
+fitting RBF SVM
+Accuracy score: 51.04%
+Accuracy score on training data: 51.29%
+Accuracy score on test data: 50.27%
+
+---Working on 10_min_prior,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.63%
+Accuracy score on training data: 50.57%
+Accuracy score on test data: 50.81%
+fitting RBF SVM
+Accuracy score: 50.63%
+Accuracy score on training data: 50.57%
+Accuracy score on test data: 50.81%
+
+---Working on 10_min_prior,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.88%
+Accuracy score on training data: 50.59%
+Accuracy score on test data: 51.76%
+fitting RBF SVM
+Accuracy score: 50.88%
+Accuracy score on training data: 50.59%
+Accuracy score on test data: 51.76%
+
+---Working on 10_min_prior,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.05%
+Accuracy score on training data: 51.16%
+Accuracy score on test data: 50.74%
+fitting RBF SVM
+Accuracy score: 51.05%
+Accuracy score on training data: 51.16%
+Accuracy score on test data: 50.74%
+
+---Working on 10_min_prior,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 51.46%
+Accuracy score on test data: 51.00%
+fitting RBF SVM
+Accuracy score: 51.35%
+Accuracy score on training data: 51.46%
+Accuracy score on test data: 51.00%
+
+---Working on 10_min_prior,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.11%
+Accuracy score on training data: 50.62%
+Accuracy score on test data: 48.59%
+fitting RBF SVM
+Accuracy score: 50.11%
+Accuracy score on training data: 50.62%
+Accuracy score on test data: 48.59%
+
+---Working on 10_min_prior,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.56%
+Accuracy score on training data: 52.88%
+Accuracy score on test data: 51.59%
+fitting RBF SVM
+Accuracy score: 52.56%
+Accuracy score on training data: 52.88%
+Accuracy score on test data: 51.59%
+
+---Working on 10_min_prior,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.52%
+Accuracy score on training data: 52.50%
+Accuracy score on test data: 52.59%
+fitting RBF SVM
+Accuracy score: 52.52%
+Accuracy score on training data: 52.50%
+Accuracy score on test data: 52.59%
+
+---Working on 10_min_prior,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.23%
+Accuracy score on training data: 51.38%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 51.23%
+Accuracy score on training data: 51.38%
+Accuracy score on test data: 50.77%
+
+---Working on 10_min_prior,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.76%
+Accuracy score on training data: 51.20%
+Accuracy score on test data: 49.41%
+fitting RBF SVM
+Accuracy score: 50.76%
+Accuracy score on training data: 51.20%
+Accuracy score on test data: 49.41%
+
+---Working on 10_min_prior,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.83%
+Accuracy score on training data: 50.42%
+Accuracy score on test data: 48.06%
+fitting RBF SVM
+Accuracy score: 52.02%
+Accuracy score on training data: 52.65%
+Accuracy score on test data: 50.14%
+
+---Working on 10_min_prior,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.98%
+Accuracy score on training data: 51.35%
+Accuracy score on test data: 49.86%
+fitting RBF SVM
+Accuracy score: 54.30%
+Accuracy score on training data: 54.57%
+Accuracy score on test data: 53.47%
+
+---Working on 10_min_prior,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.59%
+Accuracy score on training data: 52.20%
+Accuracy score on test data: 49.77%
+fitting RBF SVM
+Accuracy score: 54.18%
+Accuracy score on training data: 54.81%
+Accuracy score on test data: 52.30%
+
+---Working on 10_min_prior,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.83%
+Accuracy score on training data: 52.05%
+Accuracy score on test data: 55.18%
+fitting RBF SVM
+Accuracy score: 54.23%
+Accuracy score on training data: 54.45%
+Accuracy score on test data: 53.56%
+
+---Working on 10_min_prior,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.76%
+Accuracy score on training data: 51.59%
+Accuracy score on test data: 48.24%
+fitting RBF SVM
+Accuracy score: 55.76%
+Accuracy score on training data: 57.16%
+Accuracy score on test data: 51.58%
+
+---Working on 10_min_prior,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.12%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 52.36%
+fitting RBF SVM
+Accuracy score: 51.12%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 52.36%
+
+---Working on 10_min_prior,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.41%
+Accuracy score on training data: 51.77%
+Accuracy score on test data: 50.32%
+fitting RBF SVM
+Accuracy score: 51.41%
+Accuracy score on training data: 51.77%
+Accuracy score on test data: 50.32%
+
+---Working on 10_min_prior,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.79%
+Accuracy score on training data: 51.77%
+Accuracy score on test data: 51.85%
+fitting RBF SVM
+Accuracy score: 51.79%
+Accuracy score on training data: 51.77%
+Accuracy score on test data: 51.85%
+
+---Working on 10_min_prior,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.76%
+Accuracy score on training data: 53.49%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 52.76%
+Accuracy score on training data: 53.49%
+Accuracy score on test data: 50.59%
+
+---Working on 10_min_prior,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.18%
+Accuracy score on training data: 51.17%
+Accuracy score on test data: 51.22%
+fitting RBF SVM
+Accuracy score: 51.18%
+Accuracy score on training data: 51.17%
+Accuracy score on test data: 51.22%
+
+---Working on 10_min_prior,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.66%
+Accuracy score on training data: 51.08%
+Accuracy score on test data: 53.38%
+fitting RBF SVM
+Accuracy score: 51.66%
+Accuracy score on training data: 51.08%
+Accuracy score on test data: 53.38%
+
+---Working on 10_min_prior,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.87%
+Accuracy score on training data: 51.53%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 67.36%
+Accuracy score on training data: 73.95%
+Accuracy score on test data: 47.61%
+
+---Working on 10_min_prior,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.24%
+Accuracy score on training data: 50.36%
+Accuracy score on test data: 49.86%
+fitting RBF SVM
+Accuracy score: 69.61%
+Accuracy score on training data: 75.60%
+Accuracy score on test data: 51.67%
+
+---Working on 10_min_prior,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.79%
+Accuracy score on training data: 50.09%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 69.48%
+Accuracy score on training data: 75.39%
+Accuracy score on test data: 51.76%
+
+---Working on 10_min_prior,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.97%
+Accuracy score on training data: 50.33%
+Accuracy score on test data: 48.87%
+fitting RBF SVM
+Accuracy score: 68.15%
+Accuracy score on training data: 75.12%
+Accuracy score on test data: 47.25%
+
+---Working on 10_min_prior,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.98%
+Accuracy score on training data: 50.93%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 68.96%
+Accuracy score on training data: 75.60%
+Accuracy score on test data: 49.05%
+
+---Working on 10_min_prior,1_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.25%
+Accuracy score on training data: 51.29%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 73.90%
+Accuracy score on training data: 81.20%
+Accuracy score on test data: 52.03%
+
+---Working on 10_min_prior,5_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.96%
+Accuracy score on training data: 50.90%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 67.45%
+Accuracy score on training data: 73.80%
+Accuracy score on test data: 48.42%
+
+---Working on 10_min_prior,10_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.70%
+Accuracy score on training data: 52.20%
+Accuracy score on test data: 50.23%
+fitting RBF SVM
+Accuracy score: 66.84%
+Accuracy score on training data: 72.56%
+Accuracy score on test data: 49.68%
+
+---Working on 10_min_prior,20_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.85%
+Accuracy score on training data: 51.68%
+Accuracy score on test data: 48.33%
+fitting RBF SVM
+Accuracy score: 65.76%
+Accuracy score on training data: 70.82%
+Accuracy score on test data: 50.59%
+
+---Working on 10_min_prior,40_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.85%
+Accuracy score on training data: 51.05%
+Accuracy score on test data: 50.23%
+fitting RBF SVM
+Accuracy score: 64.29%
+Accuracy score on training data: 68.20%
+Accuracy score on test data: 52.57%
+
+---Working on 10_min_prior,80_min_busd 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.48%
+Accuracy score on training data: 50.39%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 63.77%
+Accuracy score on training data: 68.71%
+Accuracy score on test data: 48.96%
+
+---Working on 10_min_prior,1_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.99%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 47.47%
+fitting RBF SVM
+Accuracy score: 49.99%
+Accuracy score on training data: 50.83%
+Accuracy score on test data: 47.47%
+
+---Working on 10_min_prior,5_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.52%
+Accuracy score on training data: 51.25%
+Accuracy score on test data: 52.35%
+fitting RBF SVM
+Accuracy score: 51.52%
+Accuracy score on training data: 51.25%
+Accuracy score on test data: 52.35%
+
+---Working on 10_min_prior,10_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.83%
+Accuracy score on training data: 52.41%
+Accuracy score on test data: 50.09%
+fitting RBF SVM
+Accuracy score: 51.83%
+Accuracy score on training data: 52.41%
+Accuracy score on test data: 50.09%
+
+---Working on 10_min_prior,20_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.23%
+Accuracy score on training data: 50.90%
+Accuracy score on test data: 52.21%
+fitting RBF SVM
+Accuracy score: 51.23%
+Accuracy score on training data: 50.90%
+Accuracy score on test data: 52.21%
+
+---Working on 10_min_prior,40_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.38%
+Accuracy score on training data: 50.93%
+Accuracy score on test data: 48.74%
+fitting RBF SVM
+Accuracy score: 50.38%
+Accuracy score on training data: 50.93%
+Accuracy score on test data: 48.74%
+
+---Working on 10_min_prior,80_min_busd_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.44%
+Accuracy score on training data: 50.42%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 50.44%
+Accuracy score on training data: 50.42%
+Accuracy score on test data: 50.50%
+
+---Working on 10_min_prior,1_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.82%
+Accuracy score on training data: 50.72%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 50.87%
+Accuracy score on training data: 51.08%
+Accuracy score on test data: 50.23%
+
+---Working on 10_min_prior,5_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.33%
+Accuracy score on training data: 51.32%
+Accuracy score on test data: 47.34%
+fitting RBF SVM
+Accuracy score: 52.45%
+Accuracy score on training data: 53.61%
+Accuracy score on test data: 48.96%
+
+---Working on 10_min_prior,10_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.12%
+Accuracy score on training data: 52.26%
+Accuracy score on test data: 47.70%
+fitting RBF SVM
+Accuracy score: 53.55%
+Accuracy score on training data: 55.17%
+Accuracy score on test data: 48.69%
+
+---Working on 10_min_prior,20_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.37%
+Accuracy score on training data: 50.33%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 52.81%
+Accuracy score on training data: 54.15%
+Accuracy score on test data: 48.78%
+
+---Working on 10_min_prior,40_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.99%
+Accuracy score on training data: 50.30%
+Accuracy score on test data: 49.05%
+fitting RBF SVM
+Accuracy score: 54.36%
+Accuracy score on training data: 55.05%
+Accuracy score on test data: 52.30%
+
+---Working on 10_min_prior,80_min_hilo 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.78%
+Accuracy score on training data: 50.66%
+Accuracy score on test data: 51.13%
+fitting RBF SVM
+Accuracy score: 54.70%
+Accuracy score on training data: 55.69%
+Accuracy score on test data: 51.76%
+
+---Working on 10_min_prior,1_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.39%
+Accuracy score on training data: 51.56%
+Accuracy score on test data: 50.86%
+fitting RBF SVM
+Accuracy score: 51.97%
+Accuracy score on training data: 53.25%
+Accuracy score on test data: 48.15%
+
+---Working on 10_min_prior,5_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.25%
+Accuracy score on training data: 51.50%
+Accuracy score on test data: 50.50%
+fitting RBF SVM
+Accuracy score: 51.48%
+Accuracy score on training data: 51.77%
+Accuracy score on test data: 50.59%
+
+---Working on 10_min_prior,10_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.23%
+Accuracy score on training data: 51.59%
+Accuracy score on test data: 50.14%
+fitting RBF SVM
+Accuracy score: 51.43%
+Accuracy score on training data: 51.56%
+Accuracy score on test data: 51.04%
+
+---Working on 10_min_prior,20_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.70%
+Accuracy score on training data: 51.50%
+Accuracy score on test data: 52.30%
+fitting RBF SVM
+Accuracy score: 51.84%
+Accuracy score on training data: 51.68%
+Accuracy score on test data: 52.30%
+
+---Working on 10_min_prior,40_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.97%
+Accuracy score on training data: 52.44%
+Accuracy score on test data: 50.59%
+fitting RBF SVM
+Accuracy score: 52.02%
+Accuracy score on training data: 52.53%
+Accuracy score on test data: 50.50%
+
+---Working on 10_min_prior,80_min_price_vs_range 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.66%
+Accuracy score on training data: 51.68%
+Accuracy score on test data: 51.58%
+fitting RBF SVM
+Accuracy score: 52.09%
+Accuracy score on training data: 52.26%
+Accuracy score on test data: 51.58%
+
+---Working on 20_min_prior,40_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.00%
+Accuracy score on training data: 50.27%
+Accuracy score on test data: 49.19%
+fitting RBF SVM
+Accuracy score: 50.00%
+Accuracy score on training data: 50.27%
+Accuracy score on test data: 49.19%
+
+---Working on 20_min_prior,80_min_prior 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.32%
+Accuracy score on training data: 50.17%
+Accuracy score on test data: 50.77%
+fitting RBF SVM
+Accuracy score: 50.32%
+Accuracy score on training data: 50.17%
+Accuracy score on test data: 50.77%
+
+---Working on 20_min_prior,1_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.02%
+Accuracy score on training data: 50.46%
+Accuracy score on test data: 48.71%
+fitting RBF SVM
+Accuracy score: 50.02%
+Accuracy score on training data: 50.46%
+Accuracy score on test data: 48.71%
+
+---Working on 20_min_prior,5_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.06%
+Accuracy score on training data: 50.96%
+Accuracy score on test data: 47.35%
+fitting RBF SVM
+Accuracy score: 50.06%
+Accuracy score on training data: 50.96%
+Accuracy score on test data: 47.35%
+
+---Working on 20_min_prior,10_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.33%
+Accuracy score on training data: 51.28%
+Accuracy score on test data: 47.50%
+fitting RBF SVM
+Accuracy score: 50.69%
+Accuracy score on training data: 51.46%
+Accuracy score on test data: 48.41%
+
+---Working on 20_min_prior,20_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.58%
+Accuracy score on training data: 50.94%
+Accuracy score on test data: 53.50%
+fitting RBF SVM
+Accuracy score: 51.58%
+Accuracy score on training data: 50.94%
+Accuracy score on test data: 53.50%
+
+---Working on 20_min_prior,40_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.93%
+Accuracy score on training data: 51.44%
+Accuracy score on test data: 53.41%
+fitting RBF SVM
+Accuracy score: 51.93%
+Accuracy score on training data: 51.44%
+Accuracy score on test data: 53.41%
+
+---Working on 20_min_prior,80_min_prior_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.50%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 49.86%
+fitting RBF SVM
+Accuracy score: 50.50%
+Accuracy score on training data: 50.71%
+Accuracy score on test data: 49.86%
+
+---Working on 20_min_prior,1_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.66%
+Accuracy score on training data: 50.60%
+Accuracy score on test data: 46.84%
+fitting RBF SVM
+Accuracy score: 49.66%
+Accuracy score on training data: 50.60%
+Accuracy score on test data: 46.84%
+
+---Working on 20_min_prior,5_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.73%
+Accuracy score on training data: 53.19%
+Accuracy score on test data: 51.35%
+fitting RBF SVM
+Accuracy score: 53.16%
+Accuracy score on training data: 54.00%
+Accuracy score on test data: 50.63%
+
+---Working on 20_min_prior,10_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.21%
+Accuracy score on training data: 52.41%
+Accuracy score on test data: 51.62%
+fitting RBF SVM
+Accuracy score: 54.17%
+Accuracy score on training data: 54.93%
+Accuracy score on test data: 51.90%
+
+---Working on 20_min_prior,20_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.29%
+Accuracy score on training data: 50.66%
+Accuracy score on test data: 49.19%
+fitting RBF SVM
+Accuracy score: 53.32%
+Accuracy score on training data: 53.91%
+Accuracy score on test data: 51.53%
+
+---Working on 20_min_prior,40_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.51%
+Accuracy score on training data: 51.62%
+Accuracy score on test data: 51.17%
+fitting RBF SVM
+Accuracy score: 53.32%
+Accuracy score on training data: 54.75%
+Accuracy score on test data: 49.01%
+
+---Working on 20_min_prior,80_last_vs_ma 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.98%
+Accuracy score on training data: 52.86%
+Accuracy score on test data: 53.34%
+fitting RBF SVM
+Accuracy score: 54.54%
+Accuracy score on training data: 55.57%
+Accuracy score on test data: 51.44%
+
+---Working on 20_min_prior,1_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.93%
+Accuracy score on training data: 50.88%
+Accuracy score on test data: 51.09%
+fitting RBF SVM
+Accuracy score: 50.93%
+Accuracy score on training data: 50.88%
+Accuracy score on test data: 51.09%
+
+---Working on 20_min_prior,5_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.94%
+Accuracy score on training data: 52.32%
+Accuracy score on test data: 50.81%
+fitting RBF SVM
+Accuracy score: 51.94%
+Accuracy score on training data: 52.32%
+Accuracy score on test data: 50.81%
+
+---Working on 20_min_prior,10_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.71%
+Accuracy score on training data: 52.47%
+Accuracy score on test data: 53.43%
+fitting RBF SVM
+Accuracy score: 52.71%
+Accuracy score on training data: 52.47%
+Accuracy score on test data: 53.43%
+
+---Working on 20_min_prior,20_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 53.36%
+Accuracy score on training data: 53.82%
+Accuracy score on test data: 51.99%
+fitting RBF SVM
+Accuracy score: 53.36%
+Accuracy score on training data: 53.82%
+Accuracy score on test data: 51.99%
+
+---Working on 20_min_prior,40_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.96%
+Accuracy score on training data: 51.99%
+Accuracy score on test data: 51.90%
+fitting RBF SVM
+Accuracy score: 51.96%
+Accuracy score on training data: 51.99%
+Accuracy score on test data: 51.90%
+
+---Working on 20_min_prior,80_last_vs_ma_updown 1_min_updown
+fitting Linear SVM
+Accuracy score: 52.05%
+Accuracy score on training data: 51.90%
+Accuracy score on test data: 52.53%
+fitting RBF SVM
+Accuracy score: 52.05%
+Accuracy score on training data: 51.90%
+Accuracy score on test data: 52.53%
+
+---Working on 20_min_prior,5_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 50.77%
+Accuracy score on training data: 50.15%
+Accuracy score on test data: 52.62%
+fitting RBF SVM
+Accuracy score: 70.62%
+Accuracy score on training data: 76.99%
+Accuracy score on test data: 51.53%
+
+---Working on 20_min_prior,10_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.64%
+Accuracy score on training data: 50.12%
+Accuracy score on test data: 48.19%
+fitting RBF SVM
+Accuracy score: 69.13%
+Accuracy score on training data: 76.08%
+Accuracy score on test data: 48.29%
+
+---Working on 20_min_prior,20_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.93%
+Accuracy score on training data: 49.91%
+Accuracy score on test data: 50.00%
+fitting RBF SVM
+Accuracy score: 70.37%
+Accuracy score on training data: 76.53%
+Accuracy score on test data: 51.90%
+
+---Working on 20_min_prior,40_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 51.42%
+Accuracy score on training data: 51.11%
+Accuracy score on test data: 52.35%
+fitting RBF SVM
+Accuracy score: 69.43%
+Accuracy score on training data: 75.66%
+Accuracy score on test data: 50.72%
+
+---Working on 20_min_prior,80_min_volume 1_min_updown
+fitting Linear SVM
+Accuracy score: 49.89%
+Accuracy score on training data: 49.67%
+Accuracy score on test data: 50.54%
+fitting RBF SVM
+Accuracy score: 69.40%
+Accuracy score on training data: 74.91%
+Accuracy score on test data: 52.89%
+
+---Working on 20_min_prior,1_min_busd 1_min_updown
+fitting Linear SVM
